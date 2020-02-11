@@ -40,6 +40,6 @@ public class Ex_26 {
                 resultat= n1*n1;
             }
             System.out.println("El resultat es: "+resultat);
-            System.out.println("easy peasy ")
+            System.out.println("easy")
          }
 }
